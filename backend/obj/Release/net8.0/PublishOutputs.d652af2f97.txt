@@ -1,0 +1,12 @@
+/home/ramzan/azure-apps-service-project/backend/publish/backend
+/home/ramzan/azure-apps-service-project/backend/publish/appsettings.Development.json
+/home/ramzan/azure-apps-service-project/backend/publish/appsettings.json
+/home/ramzan/azure-apps-service-project/backend/publish/backend.dll
+/home/ramzan/azure-apps-service-project/backend/publish/backend.deps.json
+/home/ramzan/azure-apps-service-project/backend/publish/backend.runtimeconfig.json
+/home/ramzan/azure-apps-service-project/backend/publish/backend.pdb
+/home/ramzan/azure-apps-service-project/backend/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/ramzan/azure-apps-service-project/backend/publish/Microsoft.OpenApi.dll
+/home/ramzan/azure-apps-service-project/backend/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/ramzan/azure-apps-service-project/backend/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ramzan/azure-apps-service-project/backend/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

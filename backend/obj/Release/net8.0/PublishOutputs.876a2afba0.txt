@@ -1,0 +1,12 @@
+/mnt/c/Windows/system32/azure-apps-service-project/backend/publish/backend
+/mnt/c/Windows/system32/azure-apps-service-project/backend/publish/appsettings.Development.json
+/mnt/c/Windows/system32/azure-apps-service-project/backend/publish/appsettings.json
+/mnt/c/Windows/system32/azure-apps-service-project/backend/publish/backend.dll
+/mnt/c/Windows/system32/azure-apps-service-project/backend/publish/backend.deps.json
+/mnt/c/Windows/system32/azure-apps-service-project/backend/publish/backend.runtimeconfig.json
+/mnt/c/Windows/system32/azure-apps-service-project/backend/publish/backend.pdb
+/mnt/c/Windows/system32/azure-apps-service-project/backend/publish/Microsoft.AspNetCore.OpenApi.dll
+/mnt/c/Windows/system32/azure-apps-service-project/backend/publish/Microsoft.OpenApi.dll
+/mnt/c/Windows/system32/azure-apps-service-project/backend/publish/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/c/Windows/system32/azure-apps-service-project/backend/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/c/Windows/system32/azure-apps-service-project/backend/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
