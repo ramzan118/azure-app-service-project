@@ -17,6 +17,11 @@ var app = builder.Build();
 app.UseSwagger();
 app.UseSwaggerUI();
 
+var cs = builder.Configuration["DB_CONNECTION_STRING"];
+services.AddHealthChecks()
+        .AddSqlServer(cs, /* … */);
+
+
 // 1. Health-check endpoint
 app.MapGet("/api/health/db", async () =>
 {
