@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Art Expo",
+    "date": "2025-10-15",
+    "location": "Hall A, City Convention Center",
+    "image": "https://via.placeholder.com/400x200?text=Modern+Art"
+  },
+  {
+    "id": 2,
+    "title": "Tech Innovations Fair",
+    "date": "2025-11-02",
+    "location": "Expo Grounds, Building B",
+    "image": "https://via.placeholder.com/400x200?text=Tech+Innovations"
+  },
+  {
+    "id": 3,
+    "title": "Culinary Creations",
+    "date": "2025-12-05",
+    "location": "Grand Hall, Food District",
+    "image": "https://via.placeholder.com/400x200?text=Culinary+Creations"
+  }
+]
+
